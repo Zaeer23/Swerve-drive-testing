@@ -15,7 +15,7 @@
     "canbus": "Godzilla"
   },
   "inverted": {
-    "drive": false,
+    "drive": true,
   "angle": true
   },
   "absoluteEncoderOffset": 318,
@@ -24,4 +24,4 @@
     "front": -11,
     "left": 11
   }
-}
+} 

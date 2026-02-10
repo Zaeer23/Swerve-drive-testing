@@ -7,12 +7,12 @@
       "font": "Proggy Dotted",
       "fps": "120",
       "height": "991",
-      "maximized": "1",
+      "maximized": "0",
       "style": "0",
       "userScale": "2",
       "width": "1920",
-      "xpos": "0",
-      "ypos": "29"
+      "xpos": "29",
+      "ypos": "136"
     }
   },
   "Table": {
@@ -31,8 +31,8 @@
   "Window": {
     "###/FMSInfo": {
       "Collapsed": "0",
-      "Pos": "60,60",
-      "Size": "202,194"
+      "Pos": "451,104",
+      "Size": "217,194"
     },
     "###/SmartDashboard/Encoders": {
       "Collapsed": "0",
@@ -41,7 +41,7 @@
     },
     "###/SmartDashboard/Field": {
       "Collapsed": "0",
-      "Pos": "215,243",
+      "Pos": "557,116",
       "Size": "914,569"
     },
     "###/SmartDashboard/Swerve Drive": {
@@ -52,7 +52,7 @@
     "###FMS": {
       "Collapsed": "0",
       "Pos": "18,609",
-      "Size": "336,158"
+      "Size": "202,214"
     },
     "###Joysticks": {
       "Collapsed": "0",
@@ -91,7 +91,7 @@
     },
     "###Timing": {
       "Collapsed": "0",
-      "Pos": "3,112",
+      "Pos": "277,232",
       "Size": "162,194"
     },
     "Debug##Default": {
